@@ -1,0 +1,532 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AddHeaderManager" preserve="all" />
+    <type fullname="AdressableScenePrepocessor" preserve="all" />
+    <type fullname="AutoLetterbox.ForceCameraRatio" preserve="all" />
+    <type fullname="BarReel" preserve="all" />
+    <type fullname="BetValueDisplayer" preserve="all" />
+    <type fullname="BlinkEffect" preserve="all" />
+    <type fullname="BuffaloDeluxe.BuffaloDeluxeWinChecker" preserve="all" />
+    <type fullname="BuffaloDeluxe.FreeGamesManager" preserve="all" />
+    <type fullname="BuffaloDeluxe.Wild" preserve="all" />
+    <type fullname="BuffaloGame.BarGame" preserve="all" />
+    <type fullname="BuffaloGame.BarGameManager" preserve="all" />
+    <type fullname="BuffaloGame.BetManager" preserve="all" />
+    <type fullname="BuffaloGame.BigWin" preserve="all" />
+    <type fullname="BuffaloGame.BuffaloRun" preserve="all" />
+    <type fullname="BuffaloGame.ClickableBuffalo" preserve="all" />
+    <type fullname="BuffaloGame.FadeBars" preserve="all" />
+    <type fullname="BuffaloGame.FadeItems" preserve="all" />
+    <type fullname="BuffaloGame.FireColor" preserve="all" />
+    <type fullname="BuffaloGame.FreeGamesUI" preserve="all" />
+    <type fullname="BuffaloGame.FreeGameWinRule" preserve="all" />
+    <type fullname="BuffaloGame.NormalWinRule" preserve="all" />
+    <type fullname="BuffaloGame.UIManager" preserve="all" />
+    <type fullname="BuffaloRunCutScene" preserve="all" />
+    <type fullname="CameraShake" preserve="all" />
+    <type fullname="Card" preserve="all" />
+    <type fullname="CardDealerControl" preserve="all" />
+    <type fullname="CardDeck" preserve="all" />
+    <type fullname="CardHand" preserve="all" />
+    <type fullname="CardPlayer" preserve="all" />
+    <type fullname="ChangeSprite" preserve="all" />
+    <type fullname="ChipArea" preserve="all" />
+    <type fullname="ChipManager" preserve="all" />
+    <type fullname="ChipValueSelector" preserve="all" />
+    <type fullname="ChristmasGame.GambleManager" preserve="all" />
+    <type fullname="ChristmasGame.MiniGameManager" preserve="all" />
+    <type fullname="ClickDetector" preserve="all" />
+    <type fullname="ClientInitializer" preserve="all" />
+    <type fullname="ColliderBtn" preserve="all" />
+    <type fullname="CountAnimation" preserve="all" />
+    <type fullname="DancingDrums.AnimateText" preserve="all" />
+    <type fullname="DancingDrums.AudioClipsSO" preserve="all" />
+    <type fullname="DancingDrums.BatController" preserve="all" />
+    <type fullname="DancingDrums.BetManager" preserve="all" />
+    <type fullname="DancingDrums.CustomSlotItemsSO" preserve="all" />
+    <type fullname="DancingDrums.DancingDrumSoundManager" preserve="all" />
+    <type fullname="DancingDrums.FreeGameFeature" preserve="all" />
+    <type fullname="DancingDrums.FreeGameFeatureUI" preserve="all" />
+    <type fullname="DancingDrums.GameConfigSO" preserve="all" />
+    <type fullname="DancingDrums.GridConfigSO" preserve="all" />
+    <type fullname="DancingDrums.JackpotCook" preserve="all" />
+    <type fullname="DancingDrums.ReelManager" preserve="all" />
+    <type fullname="DancingDrums.SlotManager" preserve="all" />
+    <type fullname="DancingDrums.UIManager" preserve="all" />
+    <type fullname="DancingDrums.WinManager" preserve="all" />
+    <type fullname="DDMeteorSpawner" preserve="all" />
+    <type fullname="DeckInfo" preserve="all" />
+    <type fullname="DespawnAfterDelay" preserve="all" />
+    <type fullname="FadeInOnEnable" preserve="all" />
+    <type fullname="FadeOutAndDisable" preserve="all" />
+    <type fullname="FadeOutDestroy" preserve="all" />
+    <type fullname="FakeShadows" preserve="all" />
+    <type fullname="FeatureReel" preserve="all" />
+    <type fullname="FireWheelManager" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Clients.ClientInstance" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Clients.PlayerSettings" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Global.Canvases.MessageMenu" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Global.Canvases.MessagesCanvas" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Global.Canvases.UserActionsCanvas" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Lobbies.GameSceneConfigurations" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.Lobbies.LobbyNetworkSpawner" preserve="all" />
+    <type fullname="FirstGearGames.LobbyAndWorld.LocalPlayerAnnouncer" preserve="all" />
+    <type fullname="FishGame.BulletControl" preserve="all" />
+    <type fullname="FishGame.CannonControl" preserve="all" />
+    <type fullname="FishGame.CoinManager" preserve="all" />
+    <type fullname="FishGame.CoinSpawner" preserve="all" />
+    <type fullname="FishGame.FishBase" preserve="all" />
+    <type fullname="FishGame.FishListAndWeights" preserve="all" />
+    <type fullname="FishGame.FishSpawner" preserve="all" />
+    <type fullname="FishGame.FishSpecies" preserve="all" />
+    <type fullname="FishGame.LockingMechanism" preserve="all" />
+    <type fullname="FishGame.PingUI" preserve="all" />
+    <type fullname="FishGame.PowerUP" preserve="all" />
+    <type fullname="FishGame.ShootControl" preserve="all" />
+    <type fullname="FishGame.TargetOverlay" preserve="all" />
+    <type fullname="FishGame.UITouchSurface" preserve="all" />
+    <type fullname="FishGame.UIWinPopUp" preserve="all" />
+    <type fullname="FishGame.WeaponsUi" preserve="all" />
+    <type fullname="FishNet.Transporting.Bayou.Bayou" preserve="all" />
+    <type fullname="FiveXQuintuple.BetManager" preserve="all" />
+    <type fullname="FiveXQuintuple.GameDataSO" preserve="all" />
+    <type fullname="FiveXQuintuple.GameEventSO" preserve="all" />
+    <type fullname="FiveXQuintuple.MuteAudioEventListener" preserve="all" />
+    <type fullname="FiveXQuintuple.MuteSoundByTag" preserve="all" />
+    <type fullname="FiveXQuintuple.QuintupleManager" preserve="all" />
+    <type fullname="FiveXQuintuple.ReelItem" preserve="all" />
+    <type fullname="FiveXQuintuple.ReelManager" preserve="all" />
+    <type fullname="FiveXQuintuple.RewardCheckManager" preserve="all" />
+    <type fullname="FiveXQuintuple.SettingsManager" preserve="all" />
+    <type fullname="FiveXQuintuple.SlotItemsSO" preserve="all" />
+    <type fullname="FiveXQuintuple.SoundManager" preserve="all" />
+    <type fullname="FiveXQuintuple.SoundSO" preserve="all" />
+    <type fullname="FiveXQuintuple.SpinUIManager" preserve="all" />
+    <type fullname="FiveXQuintuple.UIManager" preserve="all" />
+    <type fullname="FrameHue" preserve="all" />
+    <type fullname="FreeCardAnim" preserve="all" />
+    <type fullname="FreeGamesPigUI" preserve="all" />
+    <type fullname="FruitMary.FruitMaryBonusManager" preserve="all" />
+    <type fullname="FruitMary.FruitMaryWinChecker" preserve="all" />
+    <type fullname="FruitMary.FruitWinWingEffect" preserve="all" />
+    <type fullname="GameAPI" preserve="all" />
+    <type fullname="GameManager" preserve="all" />
+    <type fullname="GiftItem" preserve="all" />
+    <type fullname="Glow" preserve="all" />
+    <type fullname="HappyProsperous.DragonMovement" preserve="all" />
+    <type fullname="HappyProsperous.DragonPathManager" preserve="all" />
+    <type fullname="HappyProsperous.FeatureController" preserve="all" />
+    <type fullname="HappyProsperous.FeatureZoom" preserve="all" />
+    <type fullname="HappyProsperous.FreeGameCOntrol" preserve="all" />
+    <type fullname="HappyProsperous.HappyProsperousLineLogic" preserve="all" />
+    <type fullname="HitArea" preserve="all" />
+    <type fullname="HowtoPlayUI" preserve="all" />
+    <type fullname="InitialParticlePos" preserve="all" />
+    <type fullname="IOSUIFIX" preserve="all" />
+    <type fullname="LineControl" preserve="all" />
+    <type fullname="LionChief.LionWinHandler" preserve="all" />
+    <type fullname="LionChief.SpinManager" preserve="all" />
+    <type fullname="LOL_LineButtonsUpdate" preserve="all" />
+    <type fullname="LOL_PlusMinusBtn" preserve="all" />
+    <type fullname="LOLFreeGame" preserve="all" />
+    <type fullname="LOLwinhandler" preserve="all" />
+    <type fullname="LookatCamera" preserve="all" />
+    <type fullname="MilkyLink.FeatureReelLock" preserve="all" />
+    <type fullname="MilkyLink.FeatureWinCounter" preserve="all" />
+    <type fullname="MilkyLink.FeatureWinManager" preserve="all" />
+    <type fullname="MilkyLink.FreeGameMode" preserve="all" />
+    <type fullname="MilkyLink.MeteorController" preserve="all" />
+    <type fullname="MilkyLink.MilkyFreeGame" preserve="all" />
+    <type fullname="MilkyLink.MilkyLineLogic" preserve="all" />
+    <type fullname="MilkyLink.MilkyLinkWinChecker" preserve="all" />
+    <type fullname="MilkyLink.RearrangeChildren" preserve="all" />
+    <type fullname="MoveBuffalo" preserve="all" />
+    <type fullname="MoveObject" preserve="all" />
+    <type fullname="MultiplayerFish.Authentication" preserve="all" />
+    <type fullname="MultiplayerFish.BalanceUpdateManager" preserve="all" />
+    <type fullname="MultiplayerFish.BlackholePowerUp" preserve="all" />
+    <type fullname="MultiplayerFish.CannonModeConfig" preserve="all" />
+    <type fullname="MultiplayerFish.CanonController" preserve="all" />
+    <type fullname="MultiplayerFish.DisplayPing" preserve="all" />
+    <type fullname="MultiplayerFish.ExplosionPowerup" preserve="all" />
+    <type fullname="MultiplayerFish.FishController" preserve="all" />
+    <type fullname="MultiplayerFish.FishData" preserve="all" />
+    <type fullname="MultiplayerFish.FishInfoSO" preserve="all" />
+    <type fullname="MultiplayerFish.FishSpeciesUI" preserve="all" />
+    <type fullname="MultiplayerFish.FishSpriteEffect" preserve="all" />
+    <type fullname="MultiplayerFish.Global.GlobalManager" preserve="all" />
+    <type fullname="MultiplayerFish.LaserControl" preserve="all" />
+    <type fullname="MultiplayerFish.LightningPowerup" preserve="all" />
+    <type fullname="MultiplayerFish.MultiplayerHome" preserve="all" />
+    <type fullname="MultiplayerFish.MyAuthenicationMenu" preserve="all" />
+    <type fullname="MultiplayerFish.MyAuthenticationCanvas" preserve="all" />
+    <type fullname="MultiplayerFish.MyCanvasesManager" preserve="all" />
+    <type fullname="MultiplayerFish.MyCreateRoom" preserve="all" />
+    <type fullname="MultiplayerFish.MyCreateRoomMenu" preserve="all" />
+    <type fullname="MultiplayerFish.MyCurrentRoomMenu" preserve="all" />
+    <type fullname="MultiplayerFish.MyJoinCreateRoomCanvas" preserve="all" />
+    <type fullname="MultiplayerFish.MyJoinRoom" preserve="all" />
+    <type fullname="MultiplayerFish.MyJoinRoomMenu" preserve="all" />
+    <type fullname="MultiplayerFish.MyLobbyCanvases" preserve="all" />
+    <type fullname="MultiplayerFish.MyManagerRoom" preserve="all" />
+    <type fullname="MultiplayerFish.MyReadyLobbyNetwork" preserve="all" />
+    <type fullname="MultiplayerFish.MyReadyMemberEntry" preserve="all" />
+    <type fullname="MultiplayerFish.MyRoomActionsCanvas" preserve="all" />
+    <type fullname="MultiplayerFish.MyRoomEntry" preserve="all" />
+    <type fullname="MultiplayerFish.PlayerManager" preserve="all" />
+    <type fullname="MultiplayerFish.PowerupManager" preserve="all" />
+    <type fullname="MultiplayerFish.ProjectileController" preserve="all" />
+    <type fullname="MultiplayerFish.SeatInfoUI" preserve="all" />
+    <type fullname="MultiplayerFish.SlowDownPowerUp" preserve="all" />
+    <type fullname="MultiplayerFish.ToggleBtnText" preserve="all" />
+    <type fullname="MultiplayerFish.VirtualButtonHandler" preserve="all" />
+    <type fullname="MultiplayerFish.WeaponsUI" preserve="all" />
+    <type fullname="NormalPig" preserve="all" />
+    <type fullname="ObjectDestroyer" preserve="all" />
+    <type fullname="ObjectPool" preserve="all" />
+    <type fullname="ObjectPoolOnDestory" preserve="all" />
+    <type fullname="OverlayEffects" preserve="all" />
+    <type fullname="ParticleManager" preserve="all" />
+    <type fullname="PathCreation.Examples.PathFollower" preserve="all" />
+    <type fullname="PathCreation.PathCreator" preserve="all" />
+    <type fullname="Phoenix.BirdsFlipped" preserve="all" />
+    <type fullname="PingChecker" preserve="all" />
+    <type fullname="PockerGame.BetValueManager" preserve="all" />
+    <type fullname="PockerGame.CardSelect" preserve="all" />
+    <type fullname="PockerGame.GameManager" preserve="all" />
+    <type fullname="PockerGame.SetWinValueByBet" preserve="all" />
+    <type fullname="PowerupTrigger" preserve="all" />
+    <type fullname="Puzzle.BoardWinValue" preserve="all" />
+    <type fullname="Puzzle.FastBtn" preserve="all" />
+    <type fullname="Puzzle.PopParticle" preserve="all" />
+    <type fullname="Puzzle.SlotsManager" preserve="all" />
+    <type fullname="Puzzle.SpinManager" preserve="all" />
+    <type fullname="ReturnToMenu" preserve="all" />
+    <type fullname="RobotWin" preserve="all" />
+    <type fullname="RockCLimber.AudioManager" preserve="all" />
+    <type fullname="RockCLimber.CardID" preserve="all" />
+    <type fullname="RockCLimber.FrameAnim" preserve="all" />
+    <type fullname="RockCLimber.GambleManager" preserve="all" />
+    <type fullname="RockCLimber.GemController" preserve="all" />
+    <type fullname="RockCLimber.itemID" preserve="all" />
+    <type fullname="RockCLimber.itemReward_data" preserve="all" />
+    <type fullname="RockCLimber.Manager" preserve="all" />
+    <type fullname="RockCLimber.RotateSlot" preserve="all" />
+    <type fullname="RockCLimber.SlotManager" preserve="all" />
+    <type fullname="Roulette.BetArea" preserve="all" />
+    <type fullname="Roulette.GameManager" preserve="all" />
+    <type fullname="Roulette.NumberHighlight" preserve="all" />
+    <type fullname="Roulette.UiManager" preserve="all" />
+    <type fullname="ScaleBuffalo" preserve="all" />
+    <type fullname="ScaleObject" preserve="all" />
+    <type fullname="ScreenOrientationSetter" preserve="all" />
+    <type fullname="SelectionPig" preserve="all" />
+    <type fullname="ServerController" preserve="all" />
+    <type fullname="ServerLobbyInitializor" preserve="all" />
+    <type fullname="ServerNetwork" preserve="all" />
+    <type fullname="ServerRTP" preserve="all" />
+    <type fullname="ServerStompConnector" preserve="all" />
+    <type fullname="SetText" preserve="all" />
+    <type fullname="SevenGame.BarControl" preserve="all" />
+    <type fullname="SevenGame.BetManager" preserve="all" />
+    <type fullname="SevenGame.ButtonsManager" preserve="all" />
+    <type fullname="SevenGame.FadeAlpha" preserve="all" />
+    <type fullname="SevenGame.ImageControl" preserve="all" />
+    <type fullname="SevenGame.MuteSoundByTag" preserve="all" />
+    <type fullname="SevenGame.SlotSpinControl" preserve="all" />
+    <type fullname="SevenGame.SoundManager" preserve="all" />
+    <type fullname="SevenGame.UIManager" preserve="all" />
+    <type fullname="SevenGame.WinRuleManager" preserve="all" />
+    <type fullname="SfxBtn" preserve="all" />
+    <type fullname="ShortbyPosY" preserve="all" />
+    <type fullname="SignWaveMovement" preserve="all" />
+    <type fullname="SlotCardAnimationController" preserve="all" />
+    <type fullname="SoundPlayer" preserve="all" />
+    <type fullname="spin" preserve="all" />
+    <type fullname="SpinButton" preserve="all" />
+    <type fullname="SpinCycleOffset" preserve="all" />
+    <type fullname="SpinnyFire" preserve="all" />
+    <type fullname="SplitHandProvider" preserve="all" />
+    <type fullname="StarDuck.BetManager" preserve="all" />
+    <type fullname="StarDuck.ChristmasLineLogic" preserve="all" />
+    <type fullname="StarDuck.DuckLineLogic" preserve="all" />
+    <type fullname="StarDuck.FastBtn" preserve="all" />
+    <type fullname="StarDuck.FreeGamesControl" preserve="all" />
+    <type fullname="StarDuck.GameManger" preserve="all" />
+    <type fullname="StarDuck.HomeScreenChanger" preserve="all" />
+    <type fullname="StarDuck.PointerEvents" preserve="all" />
+    <type fullname="StarDuck.SlotItemController" preserve="all" />
+    <type fullname="StarDuck.SlotItems" preserve="all" />
+    <type fullname="StarDuck.SlotItemsManager" preserve="all" />
+    <type fullname="StarDuck.SlotReelManager" preserve="all" />
+    <type fullname="StarDuck.StarSevenChecker" preserve="all" />
+    <type fullname="StarDuck.WinChecker" preserve="all" />
+    <type fullname="Starliner.Audio.AudioEnumSO" preserve="all" />
+    <type fullname="Starliner.Audio.AudioManager" preserve="all" />
+    <type fullname="SuperBall_Keno.AudioManager" preserve="all" />
+    <type fullname="SuperBall_Keno.BallId" preserve="all" />
+    <type fullname="SuperBall_Keno.Bet_Multiplier" preserve="all" />
+    <type fullname="SuperBall_Keno.ButtonID" preserve="all" />
+    <type fullname="SuperBall_Keno.Manager" preserve="all" />
+    <type fullname="ToggleBtn" preserve="all" />
+    <type fullname="TransportSetter" preserve="all" />
+    <type fullname="UIFade" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.HorizontalScrollSnap" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.UI_InfiniteScroll" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
+    <type fullname="WheelManager" preserve="all" />
+    <type fullname="WinParticle" preserve="all" />
+    <type fullname="AutoLetterbox.CameraRatio" preserve="nothing" serialized="true" />
+    <type fullname="SevenGame.Sounds" preserve="nothing" serialized="true" />
+    <type fullname="StarDuck.SlotItemsManager/SlotItem" preserve="nothing" serialized="true" />
+    <type fullname="StarDuck.WinChecker/Slot" preserve="nothing" serialized="true" />
+    <type fullname="StarDuck.WinChecker/WinLine" preserve="nothing" serialized="true" />
+    <type fullname="SpawnPattern" preserve="nothing" serialized="true" />
+    <type fullname="FishGame.FishWeighted" preserve="nothing" serialized="true" />
+    <type fullname="FishGame.SpawnPattern" preserve="nothing" serialized="true" />
+    <type fullname="FishGame.WeaponsUi/WeaponData" preserve="nothing" serialized="true" />
+    <type fullname="ObjectPool/Object" preserve="nothing" serialized="true" />
+    <type fullname="Particle" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.ScrollSnapBase/SelectionChangeEndEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.ScrollSnapBase/SelectionChangeStartEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.ScrollSnapBase/SelectionPageChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="BasicWeightedItem`1[System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="DancingDrums.AudioConfig`1[DancingDrums.DancingDrumsAudio]" preserve="nothing" serialized="true" />
+    <type fullname="DancingDrums.BatController/BatInfo" preserve="nothing" serialized="true" />
+    <type fullname="DancingDrums.CustomSlotItem" preserve="nothing" serialized="true" />
+    <type fullname="DancingDrums.JackpotModes" preserve="nothing" serialized="true" />
+    <type fullname="DancingDrums.WeightExceptData" preserve="nothing" serialized="true" />
+    <type fullname="DancingDrums.WeightException" preserve="nothing" serialized="true" />
+    <type fullname="FiveXQuintuple.Nodes" preserve="nothing" serialized="true" />
+    <type fullname="FiveXQuintuple.Results" preserve="nothing" serialized="true" />
+    <type fullname="FiveXQuintuple.SlotItem" preserve="nothing" serialized="true" />
+    <type fullname="FiveXQuintuple.UnityEventMute" preserve="nothing" serialized="true" />
+    <type fullname="FruitMary.FruitMaryBonusManager/FruitMaryItem" preserve="nothing" serialized="true" />
+    <type fullname="PathCreation.BezierPath" preserve="nothing" serialized="true" />
+    <type fullname="PathCreation.PathCreatorData" preserve="nothing" serialized="true" />
+    <type fullname="LionChief.SpinData" preserve="nothing" serialized="true" />
+    <type fullname="BuffaloGame.BarGame/Row" preserve="nothing" serialized="true" />
+    <type fullname="BuffaloGame.Choices" preserve="nothing" serialized="true" />
+    <type fullname="BuffaloGame.FirstRollItem" preserve="nothing" serialized="true" />
+    <type fullname="BuffaloGame.SpinItem" preserve="nothing" serialized="true" />
+    <type fullname="BuffaloGame.UIManager/Paytable" preserve="nothing" serialized="true" />
+    <type fullname="FireWheelManager/SpinData" preserve="nothing" serialized="true" />
+    <type fullname="FireWheelManager/ToBeMoved" preserve="nothing" serialized="true" />
+    <type fullname="SevenGame.WinPattern" preserve="nothing" serialized="true" />
+    <type fullname="Puzzle.SpinManager/SpinData" preserve="nothing" serialized="true" />
+    <type fullname="SevenGame.BarControl/FirstRollItem" preserve="nothing" serialized="true" />
+    <type fullname="SevenGame.BarControl/SpinItem" preserve="nothing" serialized="true" />
+    <type fullname="SevenGame.UIManager/Paytable" preserve="nothing" serialized="true" />
+    <type fullname="MultiplayerFish.WeaponsUI/WeaponData" preserve="nothing" serialized="true" />
+    <type fullname="FishNet.Transporting.Bayou.SslConfiguration" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="FishNet.Example, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="NetworkHudCanvases" preserve="all" />
+  </assembly>
+  <assembly fullname="FishNet.Plugins.ColliderRollback.Generated, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DestroyAfterDelay" preserve="all" />
+  </assembly>
+  <assembly fullname="FishNet.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="FishNet.Component.Observing.SceneCondition" preserve="all" />
+    <type fullname="FishNet.Component.Spawning.PlayerSpawner" preserve="all" />
+    <type fullname="FishNet.Component.Transforming.NetworkTransform" preserve="all" />
+    <type fullname="FishNet.Managing.NetworkManager" preserve="all" />
+    <type fullname="FishNet.Managing.Observing.ObserverManager" preserve="all" />
+    <type fullname="FishNet.Managing.Scened.SceneManager" preserve="all" />
+    <type fullname="FishNet.Managing.Server.ServerManager" preserve="all" />
+    <type fullname="FishNet.Managing.Statistic.StatisticsManager" preserve="all" />
+    <type fullname="FishNet.Managing.Timing.TimeManager" preserve="all" />
+    <type fullname="FishNet.Managing.Transporting.TransportManager" preserve="all" />
+    <type fullname="FishNet.Object.NetworkObject" preserve="all" />
+    <type fullname="FishNet.Observing.NetworkObserver" preserve="all" />
+    <type fullname="FishNet.Transporting.Multipass.Multipass" preserve="all" />
+    <type fullname="FishNet.Transporting.Tugboat.Tugboat" preserve="all" />
+    <type fullname="FishNet.Component.Transforming.NetworkTransform/ComponentConfigurationType" preserve="nothing" serialized="true" />
+    <type fullname="FishNet.Component.Transforming.NetworkTransform/SnappedAxes" preserve="nothing" serialized="true" />
+    <type fullname="FishNet.Object.TransformProperties" preserve="nothing" serialized="true" />
+    <type fullname="FishNet.Serializing.TransformPackingData" preserve="nothing" serialized="true" />
+    <type fullname="FishNet.Managing.Statistic.NetworkTraficStatistics" preserve="nothing" serialized="true" />
+    <type fullname="FishNet.Managing.Transporting.LatencySimulator" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SimpleScrollSnap, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DanielLochner.Assets.SimpleScrollSnap.SimpleScrollSnap" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.ActivationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ActivationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.GroupTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalEmitter" preserve="all" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.SignalReceiver/EventKeyValue" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineClip" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LightProbes" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[System.Int32,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[UnityEngine.GameObject,System.Single]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`4[System.ValueTuple`3[System.String,System.String,System.Single],MultiplayerFish.FishController,UnityEngine.Vector2,FishNet.Connection.NetworkConnection]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[UnityEngine.Vector2]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="AYellowpaper.SerializedCollections">
+    <type fullname="AYellowpaper.SerializedCollections.SerializedDictionary`2[Starliner.Audio.AudioEnumSO,DancingDrums.AudioClipsSO]" preserve="nothing" serialized="true" />
+    <type fullname="AYellowpaper.SerializedCollections.SerializedDictionary`2[System.String,UserGameStats]" preserve="nothing" serialized="true" />
+    <type fullname="AYellowpaper.SerializedCollections.SerializedKeyValuePair`2[Starliner.Audio.AudioEnumSO,DancingDrums.AudioClipsSO]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SimpleInspectorAttributes">
+    <type fullname="DanielLochner.Assets.Margins" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
